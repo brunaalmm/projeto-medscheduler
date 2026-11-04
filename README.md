@@ -1,5 +1,4 @@
 # MedScheduler: Sistema de Agendamento Inteligente 🩺
-Atividade – 18
 
 ## Sobre o Projeto
 O MedScheduler é uma plataforma desenvolvida para otimizar o agendamento de consultas na Clínica Vitalis, reduzindo a taxa de faltas (no-shows) e automatizando a comunicação com os pacientes.
